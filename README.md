@@ -14,8 +14,8 @@ I am a **3rd-year Computer Science & Engineering student** with a passion for **
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwindcss)
 
 📫 **Connect with me:**  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([your-linkedin-url](https://linkedin.com/in/sumeya-akmel-2a3b9b270))
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)]([your-leetcode-url](https://leetcode.com/u/Ayemus/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([https://linkedin.com/in/sumeya-akmel-2a3b9b270]
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)]([[https://leetcode.com/u/Ayemus/]
 
 📊 **GitHub Stats:**  
 ![Sumeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeya-ak&show_icons=true&theme=dark)
