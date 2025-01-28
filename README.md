@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi there, I'm Sumeya Akmel! 👋
 
-<!--
-**sumeya-ak/sumeya-ak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **3rd-year Computer Science & Engineering student** with a passion for **Front-End Development, Competitive Programming, and Problem Solving**. 🚀 
 
-Here are some ideas to get you started:
+🌱 **Currently Learning:**  
+- Advanced Frontend Development (React, Tailwind CSS)  
+- Competitive Programming (Data Structures & Algorithms)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 **Tech Stack:**  
+![HTML](https://img.shields.io/badge/-HTML-orange?style=flat-square&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwindcss)
+
+📫 **Connect with me:**  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)]([your-linkedin-url](https://linkedin.com/in/sumeya-akmel-2a3b9b270))
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)]([your-leetcode-url](https://leetcode.com/u/Ayemus/))
+
+📊 **GitHub Stats:**  
+![Sumeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeya-ak&show_icons=true&theme=dark)
