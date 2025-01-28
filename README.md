@@ -12,6 +12,7 @@ I am a **3rd-year Computer Science & Engineering student** with a passion for **
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-square&logo=javascript)
 ![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=react)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-blue?style=flat-square&logo=tailwindcss)
+![Python](https://pimg.shields.io/badge/-Python-blue?style=flat-square&logo=Python)
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeya-akmel/)
