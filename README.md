@@ -19,3 +19,6 @@ I am a **3rd-year Computer Science & Engineering student** with a passion for **
 
 📊 **GitHub Stats:**  
 ![Sumeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeya-ak&show_icons=true&theme=dark)
+## 📊 GitHub Stats  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeya-ak&layout=compact&theme=dark&hide_border=true)
