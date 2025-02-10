@@ -18,9 +18,9 @@ I am a **3rd-year Computer Science & Engineering student** with a passion for **
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeya-akmel/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Ayemus/)
 
-
-📊 **GitHub Stats:**  
-![Sumeya's GitHub stats](https://github-readme-stats.vercel.app/api?username=sumeya-ak&show_icons=true&theme=dark)
 ## 📊 GitHub Stats  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeya-ak&layout=compact&theme=dark&border_radius=10)
+
+![Sumeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeya-ak&show_icons=true&theme=dark&border_radius=10)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeya-ak&layout=compact&theme=dark&border_radius=10)
 
