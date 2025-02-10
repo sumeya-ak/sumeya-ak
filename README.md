@@ -1,8 +1,3 @@
-![Followers](https://img.shields.io/github/followers/sumeya-ak?style=flat-square&color=00C0FF)
-![Repositories](https://img.shields.io/badge/Repositories-55-ff69b4?style=flat-square)
-![Stars](https://img.shields.io/github/stars/sumeya-ak?style=flat-square&color=FFD700)
-![Commits](https://img.shields.io/badge/Commits-1228-32CD32?style=flat-square)
-
 # Hi there, I'm Sumeya Akmel! 👋
 
 I am a **3rd-year Computer Science & Engineering student** with a passion for **Front-End Development, Competitive Programming, and Problem Solving**. 🚀 
