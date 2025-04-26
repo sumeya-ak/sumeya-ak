@@ -1,6 +1,6 @@
 # Hi there, I'm Sumeya Akmel! 👋
 
-I am a **3rd-year Computer Science & Engineering student** with a passion for **Front-End Development, Competitive Programming, and Problem Solving**. 🚀 
+I am a **3rd-year Computer Science & Engineering student** with a passion for **front-End Development, Competitive Programming, and Problem Solving**. 🚀 
 
 🌱 **Currently Learning:**  
 - Advanced Frontend Development (React, Tailwind CSS)  
