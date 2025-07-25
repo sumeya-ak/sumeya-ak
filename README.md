@@ -36,7 +36,6 @@ Whether it's building scalable APIs, hacking away in C++, or diving into Web3, I
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumeya-akmel/)  
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Ayemus/)  
-🌐 **Portfolio Website:** [sumeyaakmel.vercel.app](https://sumeya-akmel-portfolio.vercel.app/) 
 
 ---
 
