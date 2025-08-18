@@ -38,14 +38,7 @@ Whether it's building scalable APIs, hacking away in C++, or diving into Web3, I
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode)](https://leetcode.com/u/Ayemus/)  
 
 ---
-
-## 📊 GitHub Stats
-
-![Sumeya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sumeya-ak&show_icons=true&theme=tokyonight&border_radius=10)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumeya-ak&layout=compact&theme=tokyonight&border_radius=10)
 
 ---
-
-✨ _Fuelled by dreams, coffee, and late-night debugging sessions._  
-Let's build something that matters! 🚀
+ 🚀
