@@ -1,6 +1,6 @@
 # Hi there, I'm Sumeya Akmel! 👋
 
-I'm a **a Computer Science & Engineering student** with a deep love for **Backend Development**, **Competitive Programming**, and **Problem Solving**.  
+I'm a ** Computer Science & Engineering student** with a deep love for **Backend Development**, **Competitive Programming**, and **Problem Solving**.  
 Whether it's building scalable APIs, hacking away in C++, or diving into Web3, I'm all about turning ideas into working code. ⚡️
 
 
